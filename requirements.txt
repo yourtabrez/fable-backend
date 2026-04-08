@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+google-cloud-storage
+google-cloud-texttospeech
+google-cloud-firestore
+google-genai>=1.0.0
+python-dotenv
+pydub
